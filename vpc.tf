@@ -7,5 +7,6 @@ resource "aws_vpc" "main" {
     Purpose = "Jenkins Demo"
     tag1 = "tag1"
     tag2 = "tag2"
+    tag3 = "tag3"
   }
 }
